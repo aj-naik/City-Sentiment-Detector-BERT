@@ -46,4 +46,6 @@ The model was retrained on single epoch consisting on ~65k steps over a period o
 - User input for cities instead of predefined cities.
 - Creating and deploying a dashboard for displaying tweets mined with a choropleth map visualising sentiments of the cities.
 
+Note: All processed csv files are created and stored in 'data' directory.
+
 
