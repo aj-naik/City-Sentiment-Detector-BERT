@@ -1,5 +1,5 @@
 # City-Sentiment-Detector-BERT
-Classifying tweets from cities into Positive and Negative sentiment and determining happiness of that city.
+Classifying tweets from cities into Positive and Negative sentiment and determining happiness of that city. Made this project to gauge the sentiment of different cities across the country during the Farm Law Protests during Dec 2020 - Jan 2021.
 
 # Project Description:
 The aim of this project is to perform sentiment analysis of tweets collected from selected cities and get an overall sentiment of that city.
