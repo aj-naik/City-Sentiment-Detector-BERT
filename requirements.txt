@@ -1,0 +1,12 @@
+transformers
+numpy
+pandas
+tensorflow
+bs4
+re
+twilio
+shutil
+nltk
+tweepy
+csv
+google_trans_new
