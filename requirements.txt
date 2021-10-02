@@ -1,7 +1,7 @@
 transformers==4.5.0
 numpy==1.19
 pandas
-tensorflow==2.5.1
+tensorflow==2.6.0
 bs4
 re
 twilio
