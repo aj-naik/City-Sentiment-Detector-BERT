@@ -1,5 +1,5 @@
 transformers==4.17.0
-numpy==1.22.2
+numpy==1.22.3
 pandas
 tensorflow==2.8.0
 bs4
