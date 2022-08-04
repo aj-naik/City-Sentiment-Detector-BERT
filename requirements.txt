@@ -1,4 +1,4 @@
-transformers==4.21.0
+transformers==4.21.1
 numpy==1.23.1
 pandas
 tensorflow==2.9.1
